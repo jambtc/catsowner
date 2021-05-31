@@ -1,3 +1,6 @@
+$('.loading-wrapper').fadeOut(1500,function(e){
+    $('.loading-wrapper').prop('display', 'none');
+});
 
 $(document).ready(function(){
     // change bar color on scroll
@@ -42,7 +45,35 @@ $(document).ready(function(){
 
     }
 
+    /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+    particlesJS.load('particles-js', 'bundles/crypto-page/js/particle-dark.json', function() {
+      console.log('callback - particles.js config loaded');
+    });
 
+
+    // count down
+    $('.countdown').downCount({
+        date: '07/01/2021 12:00:00',
+        offset: -5
+    }, function () {
+        //alert('WOOT WOOT, done!');
+    });
+
+    // scroll reveal
+    ScrollReveal().reveal('.container');
+
+
+    // progress bar
+    const tokenbar = document.querySelectorAll('#test li')
+    tokenbar.forEach((item, i) => {
+        if ($(item).hasClass('progress-active')) {
+            var value = $(item).data('progress');
+            $(item).css('width',value);
+        } else {
+            var value = $(item).data('position');
+            $(item).css('left',value);
+        }
+    });
 
 
 

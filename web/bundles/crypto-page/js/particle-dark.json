@@ -1,4 +1,4 @@
-var welcome1Settings =  {
+{
 	"particles": {
 	  "number": {
 		"value": 100,

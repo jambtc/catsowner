@@ -5,7 +5,7 @@
 				<div class="col-12">
 					<nav class="main-nav">
 						<!-- ***** Logo Start ***** -->
-						<a href="index.html" class="logo">
+						<a href="/l" class="logo">
 							<img style="width:150px;" src="bundles/crypto-page/assets/images/logos/transparent-logo-dark.png" class="light-logo" alt="Catsowner ICO"/>
 							<img style="width:150px;" src="bundles/crypto-page/assets/images/logos/white-logo-dark.png" class="dark-logo" alt="Catsowner ICO"/>
 						</a>

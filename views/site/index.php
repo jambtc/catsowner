@@ -7,13 +7,16 @@ $this->title = 'Catsowner - CZN Token';
 
 <!-- ***** Wellcome Area Start ***** -->
 	<section class="welcome-area bg-top-right" id="welcome-1">
-		<div class="header-token basic">
+		<div class="header-token basic" >
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 align-self-center">
-						<h1>Cat`s owner Decentralized Blockchain Platform</h1>
-						<p>Cat`s owner makes it easy creation and deployment of decentralized applications, that can be downloaded by end-users from the application store.</p>
-						<a href="#" class="btn-secondary-box">Download Whitepaper</a>
+						<h1>Cat`s owner Useless Blockchain POA Platform</h1>
+						<p class="text-warning">
+							We are fed up. We have had enough of dog tokens. A new era is about to begin...
+						</p>
+						<p>Cat`s owner is the first POA (Proof of Authority consensus) Decentralized Blockchain. It makes it easy creation and deployment of decentralized applications, that can be downloaded by end-users from the application store.</p>
+						<a onclick="js:alert('ahah, there is no whitepaper yet and maybe there never will be!');" href="#" class="btn-secondary-box">Download the nonsense Whitepaper</a>
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 align-self-center">
 						<div class="box">
@@ -52,7 +55,10 @@ $this->title = 'Catsowner - CZN Token';
 						</div>
 					</div>
 				</div>
+
 			</div>
+		</div>
+		<div id="particles-js">
 		</div>
 		<div class="scroll-to">
 			<a href="#what-is-ico">
@@ -73,7 +79,7 @@ $this->title = 'Catsowner - CZN Token';
 							<i class="fa fa-cube"></i>
 						</div>
 						<h5 class="features-title">Easy Token Integration</h5>
-						<p>Morbi pharetra sapien ut mattis viverra. Curabitur sit amet mattis magna lipsum.</p>
+						<p>Is now live on the Binance Bridge for enabling CZN token transfers directly between Ethereum and Binance Smart Chain. This comes ahead of the full integration of our protocol on Binance Smart Chain (BSC) and is in line with its earlier update on the same subject.</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
@@ -82,7 +88,7 @@ $this->title = 'Catsowner - CZN Token';
 							<i class="fa fa-lock"></i>
 						</div>
 						<h5 class="features-title">Advanced Security</h5>
-						<p>Donec pellentesque turpis utium lorem imperdiet semper. Ut mat viverra mattis.</p>
+						<p>Increasing security by <i>obscurity</i>: it is much easier to extract the secrets from a cryptographic computation if one knows everything about the computation in advance.</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12" data-scroll-reveal="enter right move 30px over 0.6s after 0.6s">
@@ -90,8 +96,8 @@ $this->title = 'Catsowner - CZN Token';
 						<div class="icon">
 							<i class="fa fa-server"></i>
 						</div>
-						<h5 class="features-title">Decentralized</h5>
-						<p>Proin arcu ligula, malesuada id tincidunt laoreet, facilisis at justo. Sed at lorem malesuada.</p>
+						<h5 class="features-title">Decentralized (maybe in the next future...)</h5>
+						<p>All the users can participate in the consensus process also in the case of our PoA network. The consensus process is controlled by pre-selected nodes(Authorities). This kind of blockchain is called as consortium blockchain.</p>
 					</div>
 				</div>
 			</div>
@@ -104,10 +110,10 @@ $this->title = 'Catsowner - CZN Token';
 						<h2 class="section-title">A compelling value proposition.</h2>
 					</div>
 					<div class="left-text">
-						<p class="dark">Cat`s owner (CZN) is an open source, Bitcoin-like digital currency which uses a proof of work script algorithm.</p>
-						<p>The genesis block was mined on March 1st, 2014. The total number of mineable CZN is 245,465,283. The mining of Cat`s owner is divided into Epochs: each Epoch mines 36000 blocks of coins and is targeted to last approximately 25 days. </p>
+						<p class="dark">Cat`s owner (CZN) is an open source, Ethereum-like digital currency which uses a proof of authority algorithm.</p>
+						<p>The genesis block was mined on May 29th, 2021. The total number of CZN is distributed over three addresses, each of which has 56,294,995,342,131,200 for a total supply of 168,884,986,026,393,600 tokens. The mining of Cat`s owner is not possible, all tokens have already been mined.</p>
 					</div>
-					<a href="#" class="btn-secondary-line mobile-bottom-fix">Download Whitepaper</a>
+					<a href="#" class="btn-secondary-line mobile-bottom-fix">try to Download Whitepaper</a>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 align-self-center">
 					<img src="bundles/crypto-page/images/theme-1-about.svg" class="img-fluid float-right" alt="Catsowner ICO">
@@ -124,12 +130,14 @@ $this->title = 'Catsowner - CZN Token';
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="center-heading colored">
-						<h2 class="section-title">Token Sale</h2>
+						<h2 class="section-title">Token Sale and Airdrop</h2>
 					</div>
 				</div>
 				<div class="offset-lg-3 col-lg-6">
 					<div class="center-text colored">
-						<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat. </p>
+						<p>
+							When you login to our Airdrop Dasboard, make sure to connect your social accounts in your profile. Which will make it easier to join our Exclusive airdrops. Check your wallet address regularly to see if you received surprise airdrops. Our platform will deliver free airdrops for ours native coin holders without any prior announcement. If​ ​you​ ​are​ ​an​ ​investor​ ​holding​ ​a​ ​diverse​ ​portfolio​ ​of​ ​coins​ ​you​ ​are​ ​likely​ ​to​​ be receiving​ ​more​ ​and​ ​more free​ crypto as​ ​this​ ​concept​ ​keeps​ ​gaining​ ​popularity.
+						</p>
 					</div>
 				</div>
 			</div>
@@ -142,18 +150,18 @@ $this->title = 'Catsowner - CZN Token';
 								<!-- ***** Token Progress Start ***** -->
 								<div class="token-progress">
 									<ul id="test">
-										<li class="progress-active" data-progress="50%"></li>
+										<li class="progress-active" data-progress="54%"></li>
 										<li class="item complate" data-position="0%">
 											<strong>0</strong>
 											<span>Start</span>
 										</li>
-										<li class="item complate" data-position="25%">
-											<strong>$2 M</strong>
-											<span>Pre Sale</span>
+										<li class="item complate" data-position="18%">
+											<strong>56 Q CZN</strong>
+											<span>1/3 Pre Sale</span>
 										</li>
-										<li class="item complate" data-position="48%">
-											<strong>$12 M</strong>
-											<span>Soft Cap</span>
+										<li class="item complate" data-position="38%">
+											<strong>56 Q CZN</strong>
+											<span>1/3 ICO</span>
 										</li>
 										<li class="item" data-position="73%"></li>
 									</ul>
@@ -168,23 +176,23 @@ $this->title = 'Catsowner - CZN Token';
 									</div>
 									<div class="item">
 										<strong>Token Supply</strong>
-										<span>100.000.000 CZN ETH</span>
+										<span>168,884,986,026,393,600 CZN</span>
 									</div>
 									<div class="item">
 										<strong>Accepted Tokens</strong>
-										<span>BTC, ETH, ETC, NEM, EOS</span>
+										<span>BTC, ETH, BNB, ETC, NEM, EOS</span>
 									</div>
 									<div class="item">
 										<strong>Project Protocol</strong>
-										<span>ETH, ETC - CZN 20</span>
+										<span>ETH, BSC - ERC 20</span>
 									</div>
 									<div class="item">
 										<strong>Circulation Supply</strong>
-										<span>37.000.000 CZN ETH</span>
+										<span>168,884,986,026,393,600 CZN</span>
 									</div>
 									<div class="item">
 										<strong>Maximum Cap</strong>
-										<span>60 M USD</span>
+										<span>infinite M USD</span>
 									</div>
 								</div>
 								<!-- ***** Token Info Table End ***** -->
@@ -382,11 +390,11 @@ $this->title = 'Catsowner - CZN Token';
 							<li>Transfer</li>
 							<li>Connected peers to network CZN</li>
 						</ul>
-						<a class="app-download" href="https://megawallet.tk"><img src="bundles/crypto-page/images/wallet.png" alt=""></a>
+						<a class="app-download" href="https://megawallet.tk"><img width="200" src="bundles/crypto-page/images/wallet.png" alt=""></a>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 align-self-center">
-					<img src="bundles/crypto-page/images/mockups/dark.png" class="img-fluid float-right" alt="App">
+					<img src="bundles/crypto-page/images/mockups/smartphones.png" class="img-fluid float-right" alt="App">
 				</div>
 			</div>
 		</div>
@@ -404,7 +412,7 @@ $this->title = 'Catsowner - CZN Token';
 				</div>
 				<div class="offset-lg-3 col-lg-6">
 					<div class="center-text">
-						<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
+						<p>We think big, take smart risks, and do things that have never been done before.</p>
 					</div>
 				</div>
 			</div>
@@ -413,7 +421,7 @@ $this->title = 'Catsowner - CZN Token';
 					<div class="team-round">
 						<div class="profile">
 							<div class="img">
-								<img src="assets/images/1.jpg" alt="">
+								<img src="bundles/crypto-page/images/team/1.png" alt="">
 								<ul class="social">
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -421,7 +429,7 @@ $this->title = 'Catsowner - CZN Token';
 								</ul>
 							</div>
 						</div>
-						<h3 class="team-name">Lance Bogrol</h3>
+						<h3 class="team-name">Sergio Casiz-one</h3>
 						<span>CEO & Lead Blockchain</span>
 					</div>
 				</div>
@@ -429,7 +437,7 @@ $this->title = 'Catsowner - CZN Token';
 					<div class="team-round">
 						<div class="profile">
 							<div class="img">
-								<img src="assets/images/2.jpg" alt="">
+								<img src="bundles/crypto-page/images/team/2.png" alt="">
 								<ul class="social">
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -437,7 +445,7 @@ $this->title = 'Catsowner - CZN Token';
 								</ul>
 							</div>
 						</div>
-						<h3 class="team-name">Brian Cumin</h3>
+						<h3 class="team-name">Sergej Casiz-two</h3>
 						<span>CTO & Senior Developer</span>
 					</div>
 				</div>
@@ -445,7 +453,7 @@ $this->title = 'Catsowner - CZN Token';
 					<div class="team-round">
 						<div class="profile">
 							<div class="img">
-								<img src="assets/images/3.jpg" alt="">
+								<img src="bundles/crypto-page/images/team/3.png" alt="">
 								<ul class="social">
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -453,7 +461,7 @@ $this->title = 'Catsowner - CZN Token';
 								</ul>
 							</div>
 						</div>
-						<h3 class="team-name">Jackson Pot</h3>
+						<h3 class="team-name">Sérghios Casiz-three</h3>
 						<span>Blockchain App Developer</span>
 					</div>
 				</div>
@@ -461,7 +469,7 @@ $this->title = 'Catsowner - CZN Token';
 					<div class="team-round">
 						<div class="profile">
 							<div class="img">
-								<img src="assets/images/4.jpg" alt="">
+								<img src="bundles/crypto-page/images/team/4.png" alt="">
 								<ul class="social">
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -469,7 +477,7 @@ $this->title = 'Catsowner - CZN Token';
 								</ul>
 							</div>
 						</div>
-						<h3 class="team-name">Douglas Lyphe</h3>
+						<h3 class="team-name">Sergius Casiz-four</h3>
 						<span>Community Management</span>
 					</div>
 				</div>
@@ -487,10 +495,10 @@ $this->title = 'Catsowner - CZN Token';
 						<h1 class="section-title">Join Us On Telegram</h1>
 					</div>
 					<div class="offset-lg-3 col-lg-6">
-						<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
+						<p>Ask for what you want and it will be given to you</p>
 					</div>
 					<div class="offset-lg-3 col-lg-6">
-						<a href="#" class="btn-white-line">Join Us On Telegram</a>
+						<a href="https://t.me/WisemantkBot" class="btn-white-line">Join Us On Telegram</a>
 					</div>
 				</div>
 			</div>
@@ -638,9 +646,9 @@ $this->title = 'Catsowner - CZN Token';
 							<h3 class="section-title">Get In Touch</h3>
 							<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
 							<ul class="list">
-								<li><i class="fa fa-envelope-o"></i><a href="mailto:support@myicosite.com">support@myicosite.com</a></li>
+								<li><i class="fa fa-envelope-o"></i><a href="mailto:support@catsowner.tk">support@catsowner.tk</a></li>
 								<li><i class="fa fa-phone"></i><span>+44 0123 4567</span></li>
-								<li><i class="fa fa-paper-plane-o"></i><a href="#">Join us on Telegram</a></li>
+								<li><i class="fa fa-paper-plane-o"></i><a href="https://t.me/WisemantkBot">Join us on Telegram</a></li>
 							</ul>
 							<ul class="social">
 								<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
@@ -674,7 +682,7 @@ $this->title = 'Catsowner - CZN Token';
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-5">
-						<p class="copyright">2020 © Cat`s owner - Bitcoin and Cryptocurrency ICO Template - theme by Tempload</p>
+						<p class="copyright">2021 © Cat`s owner - CZN ERC20 POA BSC Token</p>
 					</div>
 				</div>
 			</div>

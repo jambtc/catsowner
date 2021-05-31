@@ -28,13 +28,15 @@ CryptoLandingAsset::register($this);
 <body>
 <?php $this->beginBody() ?>
 
-<!-- <div class="loading-wrapper">
-	<div class="loading">
-		<div></div>
-		<div></div>
-		<div></div>
-	</div>
-</div> -->
+    <div class="loading-wrapper">
+    	<div class="loading">
+    		<div></div>
+    		<div></div>
+    		<div></div>
+    	</div>
+    </div>
+
+
 
     <?= $this->render('header'); ?>
     <?= $content ?>

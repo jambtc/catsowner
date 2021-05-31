@@ -27,10 +27,9 @@ class CryptoLandingAsset extends AssetBundle
     public $js = [
         'js/popper.js',
         'js/particles.min.js',
-        'js/scrollreveal.min.js',
         'js/jquery.downCount.js',
         'js/parallax.min.js',
-        'js/particle-dark.js',
+        'js/scrollreveal.min.js',
         'js/custom.js',
 
     ];
