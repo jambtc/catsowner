@@ -390,7 +390,7 @@ $this->title = 'Catsowner - CZN Token';
 							<li>Transfer</li>
 							<li>Connected peers to network CZN</li>
 						</ul>
-						<a class="app-download" href="https://megawallet.tk"><img width="200" src="bundles/crypto-page/images/wallet.png" alt=""></a>
+						<a class="app-download" href="https://wallet.catsowner.tk"><img width="200" src="bundles/crypto-page/images/wallet.png" alt=""></a>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 align-self-center">
