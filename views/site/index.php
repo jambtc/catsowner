@@ -150,16 +150,16 @@ $this->title = 'Catsowner - CZN Token';
 								<!-- ***** Token Progress Start ***** -->
 								<div class="token-progress">
 									<ul id="test">
-										<li class="progress-active" data-progress="54%"></li>
+										<li class="progress-active" data-progress="28%"></li>
 										<li class="item complate" data-position="0%">
 											<strong>0</strong>
 											<span>Start</span>
 										</li>
-										<li class="item complate" data-position="18%">
+										<li class="item complate" data-position="22%">
 											<strong>56 Q CZN</strong>
 											<span>1/3 Pre Sale</span>
 										</li>
-										<li class="item complate" data-position="38%">
+										<li class="item complate" data-position="52%">
 											<strong>56 Q CZN</strong>
 											<span>1/3 ICO</span>
 										</li>
@@ -282,7 +282,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">04 2018</h6>
+							<h6 class="date">07 2021</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status complate"></div>
@@ -297,7 +297,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">05 2018</h6>
+							<h6 class="date">10 2021</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status complate"></div>
@@ -312,7 +312,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">06 2018</h6>
+							<h6 class="date">12 2021</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status complate"></div>
@@ -327,7 +327,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">07 2018</h6>
+							<h6 class="date">03 2022</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status"></div>
@@ -342,7 +342,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">08 2018</h6>
+							<h6 class="date">04 2022</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status"></div>
@@ -357,7 +357,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">09 2018</h6>
+							<h6 class="date">05 2022</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status"></div>
@@ -498,7 +498,7 @@ $this->title = 'Catsowner - CZN Token';
 						<p>Ask for what you want and it will be given to you</p>
 					</div>
 					<div class="offset-lg-3 col-lg-6">
-						<a href="https://t.me/WisemantkBot" class="btn-white-line">Join Us On Telegram</a>
+						<a href="https://t.me/joinchat/BGoqXe75kzJkNzE0" class="btn-white-line">Join Us On Telegram</a>
 					</div>
 				</div>
 			</div>
@@ -648,7 +648,7 @@ $this->title = 'Catsowner - CZN Token';
 							<ul class="list">
 								<li><i class="fa fa-envelope-o"></i><a href="mailto:support@catsowner.tk">support@catsowner.tk</a></li>
 								<li><i class="fa fa-phone"></i><span>+44 0123 4567</span></li>
-								<li><i class="fa fa-paper-plane-o"></i><a href="https://t.me/WisemantkBot">Join us on Telegram</a></li>
+								<li><i class="fa fa-paper-plane-o"></i><a href="https://t.me/joinchat/BGoqXe75kzJkNzE0">Join us on Telegram</a></li>
 							</ul>
 							<ul class="social">
 								<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
