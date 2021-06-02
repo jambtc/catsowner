@@ -16,10 +16,17 @@ $this->title = 'Catsowner - CZN Token';
 							We are fed up. We have had enough of dog tokens. A new era is about to begin...
 						</p>
 						<p>Cat`s owner is the first POA (Proof of Authority consensus) Decentralized Blockchain. It makes it easy creation and deployment of decentralized applications, that can be downloaded by end-users from the application store.</p>
+
 						<a onclick="js:alert('ahah, there is no whitepaper yet and maybe there never will be!');" href="#" class="btn-secondary-box">Download the nonsense Whitepaper</a>
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 align-self-center">
 						<div class="box">
+							<p class="mb-0 text-center text-dark">
+								Official Cat`s owner Smart contract on BSC
+							</p>
+							<div class="alert alert-info rounded text-center">
+								<?= Yii::$app->params['smartcontract_address'] ?>
+							</div>
 							<div class="token">
 								<h6 class="title">ICO SALE IS OPEN</h6>
 								<!-- ***** Countdown Start ***** -->
