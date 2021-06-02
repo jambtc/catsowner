@@ -24,7 +24,7 @@ $this->title = 'Catsowner - CZN Token';
 							<p class="mb-0 text-center text-dark">
 								Official Cat`s owner Smart contract on BSC
 							</p>
-							<div class="alert alert-info rounded text-center">
+							<div class="alert alert-info rounded text-center text-break">
 								<?= Yii::$app->params['smartcontract_address'] ?>
 							</div>
 							<div class="token">
@@ -385,10 +385,10 @@ $this->title = 'Catsowner - CZN Token';
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 align-self-center mobile-bottom-fix">
 					<div class="left-heading light">
-						<h2 class="section-title">Apps</h2>
+						<h2 class="section-title">Progressive Web App - Wallet</h2>
 					</div>
 					<div class="left-text light m-bottom-0">
-						<p>Maecenas et consequat nunc. Duis faucibus orci eu varius sagittis. In quam elit, euismod a urna quis</p>
+						<p>Install Poa Wallet, the Progressive Web App mobile works with several crypto tokens and blockchain wallets. With Poa Wallet, you are in control over your funds. Receive, send, store and exchange your cryptocurrency within the mobile interface.</p>
 						<ul>
 							<li>CZN Wallet</li>
 							<li>Transaction info</li>
@@ -397,7 +397,11 @@ $this->title = 'Catsowner - CZN Token';
 							<li>Transfer</li>
 							<li>Connected peers to network CZN</li>
 						</ul>
-						<a class="app-download" href="https://wallet.catsowner.tk"><img width="200" src="bundles/crypto-page/images/wallet.png" alt=""></a>
+						<div class="row text-center">
+							<div class="col-lg-12">
+								<a class="app-download" href="https://wallet.catsowner.tk"><img width="200" src="bundles/crypto-page/images/wallet.png" alt=""></a>
+							</div>
+						</div>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 align-self-center">
