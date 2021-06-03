@@ -25,7 +25,9 @@ $this->title = 'Catsowner - CZN Token';
 								Official Cat`s owner Smart contract on BSC
 							</p>
 							<div class="alert alert-info rounded text-center text-break">
-								<?= Yii::$app->params['smartcontract_address'] ?>
+								<a href="https://bscscan.com/token/<?= Yii::$app->params['smartcontract_address'] ?>" target="_blank">
+									<?= Yii::$app->params['smartcontract_address'] ?>
+								</a>
 							</div>
 							<div class="token">
 								<h6 class="title">ICO SALE IS OPEN</h6>
