@@ -118,7 +118,7 @@ $this->title = 'Catsowner - CZN Token';
 					</div>
 					<div class="left-text">
 						<p class="dark">Cat`s owner (CZN) is an open source, Ethereum-like digital currency which uses a proof of authority algorithm.</p>
-						<p>The genesis block was mined on May 29th, 2021. The total number of CZN is distributed over three addresses, each of which has 56,294,995,342,131,200 for a total supply of 168,884,986,026,393,600 tokens. The mining of Cat`s owner is not possible, all tokens have already been mined.</p>
+						<p>The genesis block was mined on June 4th, 2021. The total number of CZN is distributed over three addresses, each of which has 56,294,995,342,131,200 for a total supply of 168,884,986,026,393,600 tokens. The mining of Cat`s owner is not possible, all tokens have already been mined.</p>
 					</div>
 					<a href="#" class="btn-secondary-line mobile-bottom-fix">try to Download Whitepaper</a>
 				</div>
@@ -178,12 +178,12 @@ $this->title = 'Catsowner - CZN Token';
 								<!-- ***** Token Info Table Start ***** -->
 								<div class="token-info">
 									<div class="item">
-										<strong>Start</strong>
-										<span>Started</span>
+										<strong>Token Supply</strong>
+										<span>168,884,986,026,394,000 CZN</span>
 									</div>
 									<div class="item">
-										<strong>Token Supply</strong>
-										<span>168,884,986,026,393,600 CZN</span>
+										<strong>Decimals</strong>
+										<span>9</span>
 									</div>
 									<div class="item">
 										<strong>Accepted Tokens</strong>
@@ -195,11 +195,15 @@ $this->title = 'Catsowner - CZN Token';
 									</div>
 									<div class="item">
 										<strong>Circulation Supply</strong>
-										<span>168,884,986,026,393,600 CZN</span>
+										<span>168,884,986,026,394,000 CZN</span>
+									</div>
+									<div class="item">
+										<strong>Actual Value</strong>
+										<span>$ 0.000000001</span>
 									</div>
 									<div class="item">
 										<strong>Maximum Cap</strong>
-										<span>infinite M USD</span>
+										<span>169 M USD</span>
 									</div>
 								</div>
 								<!-- ***** Token Info Table End ***** -->
