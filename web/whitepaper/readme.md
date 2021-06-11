@@ -1,5 +1,12 @@
-<h1 align="center">Cat's owner Whitepaper</h1>
-
+<p align="center">
+    <a href="https://catsowner.tk" target="_blank">
+        <img src="../bundles/crypto-page/assets/images/logos/white-logo-dark.png" height="100px">
+    </a>
+    <h1 align="center">Cat`s owner Whitepaper</h1>
+    <h4 align="center">A Useless Blockchain POA Platform</h4>
+    <br>
+</p>
+<div style="page-break-after: always;"></div>
 
 ## Abstract
 
