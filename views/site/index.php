@@ -17,7 +17,7 @@ $this->title = 'Catsowner - CZN Token';
 						</p>
 						<p>Cat`s owner is the first POA (Proof of Authority consensus) Decentralized Blockchain. It makes it easy creation and deployment of decentralized applications, that can be downloaded by end-users from the application store.</p>
 
-						<a onclick="js:alert('ahah, there is no whitepaper yet and maybe there never will be!');" href="#" class="btn-secondary-box">Download the nonsense Whitepaper</a>
+						<a href="/whitepaper/readme.pdf" class="btn-secondary-box">Download the nonsense Whitepaper</a>
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 align-self-center">
 						<div class="box">
@@ -30,7 +30,7 @@ $this->title = 'Catsowner - CZN Token';
 								</a>
 							</div>
 							<div class="token">
-								<h6 class="title">ICO SALE IS OPEN</h6>
+								<h6 class="title">ICO SALE OPEN IN</h6>
 								<!-- ***** Countdown Start ***** -->
 								<ul class="countdown">
 									<li>
@@ -215,7 +215,7 @@ $this->title = 'Catsowner - CZN Token';
 							<!-- ***** Token Countdown and Payment Start ***** -->
 							<div class="col-lg-6 col-md-6 cols-m-12">
 								<div class="token">
-									<h6 class="title">ICO SALE IS OPEN</h6>
+									<h6 class="title">ICO SALE OPEN IN</h6>
 									<!-- ***** Countdown Start ***** -->
 									<ul class="countdown">
 										<li>
@@ -261,7 +261,7 @@ $this->title = 'Catsowner - CZN Token';
 												</label>
 											</div>
 										</div>
-										<button class="btn-primary-line">PURCHASE TOKEN NOW</button>
+										<button class="btn-primary-line disabled">PURCHASE TOKEN NOW</button>
 									</div>
 								</div>
 							</div>
@@ -405,13 +405,21 @@ $this->title = 'Catsowner - CZN Token';
 						</ul>
 						<div class="row text-center">
 							<div class="col-lg-12">
-								<a class="app-download" href="https://wallet.catsowner.tk"><img width="200" src="bundles/crypto-page/images/wallet.png" alt=""></a>
+								<p class="text-muted">
+									Get the CZN Wallet
+								</p>
+								<a class="app-download" href="https://wallet.catsowner.tk">
+									<img width="150" src="bundles/crypto-page/images/wallet.png" alt="">
+								</a>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 align-self-center">
-					<img src="bundles/crypto-page/images/mockups/smartphones.png" class="img-fluid float-right" alt="App">
+					<a class="app-download" href="https://wallet.catsowner.tk">
+						<img src="bundles/crypto-page/images/mockups/smartphones.png" class="img-fluid float-right" alt="App">
+					</a>
+
 				</div>
 			</div>
 		</div>

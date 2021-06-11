@@ -22,7 +22,7 @@
 							<li><a href="#team">TEAM</a></li>
 							<li><a href="#faq">FAQ</a></li>
 							<li><a href="#contact">CONTACT</a></li>
-							<li><a href="#" class="btn-nav-box">SIGN UP</a></li>
+							<!-- <li><a href="#" class="btn-nav-box">SIGN UP</a></li> -->
 						</ul>
 						<a class='menu-trigger'>
 							<span>Menu</span>
