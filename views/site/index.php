@@ -401,12 +401,12 @@ $this->title = 'Catsowner - CZN Token';
 							<li>My account</li>
 							<li>Blockchain Explorer</li>
 							<li>Transfer</li>
-							<li>Connected peers to network CZN</li>
+							<li>Connected peers to CZN network</li>
 						</ul>
-						<div class="row text-center">
+						<div class="row ">
 							<div class="col-lg-12">
-								<p class="text-muted">
-									Get the CZN Wallet
+								<p class="left-text text-warning">
+									You can get the wallet by clicking on image below
 								</p>
 								<a class="app-download" href="https://wallet.catsowner.tk">
 									<img width="150" src="bundles/crypto-page/images/wallet.png" alt="">
@@ -448,9 +448,18 @@ $this->title = 'Catsowner - CZN Token';
 							<div class="img">
 								<img src="bundles/crypto-page/images/team/1.png" alt="">
 								<ul class="social">
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									<li>
+										<a href="https://www.facebook.com/sergio.casizzone/"><i class="fa fa-facebook"></i>
+										</a>
+									</li>
+									<li>
+										<a href="https://twitter.com/sergiocasizzone"><i class="fa fa-twitter"></i>
+										</a>
+									</li>
+									<li>
+										<a href="https://github.com/jambtc"><i class="fa fa-github"></i>
+										</a>
+									</li>
 								</ul>
 							</div>
 						</div>
@@ -464,9 +473,9 @@ $this->title = 'Catsowner - CZN Token';
 							<div class="img">
 								<img src="bundles/crypto-page/images/team/2.png" alt="">
 								<ul class="social">
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									<li><a href="https://www.facebook.com/sergio.casizzone/"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/sergiocasizzone"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://github.com/jambtc"><i class="fa fa-github"></i></a></li>
 								</ul>
 							</div>
 						</div>
@@ -480,9 +489,9 @@ $this->title = 'Catsowner - CZN Token';
 							<div class="img">
 								<img src="bundles/crypto-page/images/team/3.png" alt="">
 								<ul class="social">
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									<li><a href="https://www.facebook.com/sergio.casizzone/"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/sergiocasizzone"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://github.com/jambtc"><i class="fa fa-github"></i></a></li>
 								</ul>
 							</div>
 						</div>
@@ -496,9 +505,9 @@ $this->title = 'Catsowner - CZN Token';
 							<div class="img">
 								<img src="bundles/crypto-page/images/team/4.png" alt="">
 								<ul class="social">
-									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									<li><a href="https://www.facebook.com/sergio.casizzone/"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/sergiocasizzone"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://github.com/jambtc"><i class="fa fa-github"></i></a></li>
 								</ul>
 							</div>
 						</div>
@@ -506,6 +515,102 @@ $this->title = 'Catsowner - CZN Token';
 						<span>Community Management</span>
 					</div>
 				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.8s">
+					<div class="team-round">
+						<div class="profile">
+							<div class="img">
+								<img src="bundles/crypto-page/images/team/5.png" alt="">
+								<ul class="social">
+									<li><a href="https://www.facebook.com/gporfidia/"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/gianluca_p_"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://www.linkedin.com/in/gianluca-porfidia/"><i class="fa fa-linkedin"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<h3 class="team-name">Gianluca Porfidia</h3>
+						<span>Project/Program Officer (PMO)</span>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.8s">
+					<div class="team-round">
+						<div class="profile">
+							<div class="img">
+								<img src="bundles/crypto-page/images/team/6.png" alt="">
+								<ul class="social">
+									<li><a href="https://www.facebook.com/tommas0ne/"><i class="fa fa-facebook"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<h3 class="team-name">Thomas D'Abrosca</h3>
+						<span>Business developer</span>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.8s">
+					<div class="team-round">
+						<div class="profile">
+							<div class="img">
+								<img src="bundles/crypto-page/images/team/7.png" alt="">
+								<ul class="social">
+									<li><a href="https://www.facebook.com/paolo.schiattarella/"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/schpao"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://www.linkedin.com/in/paoloschiattarella/"><i class="fa fa-linkedin"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<h3 class="team-name">Paolo Schiattarella</h3>
+						<span>IT Analyst, Solutions & Services</span>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.8s">
+					<div class="team-round">
+						<div class="profile">
+							<div class="img">
+								<img src="bundles/crypto-page/images/team/8.png" alt="">
+								<ul class="social">
+									<li><a href="https://www.facebook.com/celexx/"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/kalman0x"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://www.linkedin.com/in/csan16/"><i class="fa fa-linkedin"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<h3 class="team-name">Celestino Santagata</h3>
+						<span>Blockchain | Data Science</span>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.8s">
+					<div class="team-round">
+						<div class="profile">
+							<div class="img">
+								<img src="bundles/crypto-page/images/team/9.png" alt="">
+								<ul class="social">
+									<li><a href="https://www.facebook.com/chiacchioarmando/"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/chiacchio79"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://www.linkedin.com/in/armando-chiacchio-326b8654/"><i class="fa fa-linkedin"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<h3 class="team-name">Armando Chiacchio</h3>
+						<span>Expert in services for companies</span>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.8s">
+					<div class="team-round">
+						<div class="profile">
+							<div class="img">
+								<img src="bundles/crypto-page/images/team/10.png" alt="">
+								<ul class="social">
+									<li><a href="https://www.facebook.com/b.parretta/"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/bparretta"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://www.linkedin.com/in/bartolomeoparretta/"><i class="fa fa-linkedin"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<h3 class="team-name">Bartolomeo Parretta</h3>
+						<span>Management Consultant - CFO & DPO Specialist - Innovation Manager</span>
+					</div>
+				</div>
+
+
 			</div>
 		</div>
 	</section>
@@ -542,14 +647,14 @@ $this->title = 'Catsowner - CZN Token';
 				</div>
 				<div class="offset-lg-3 col-lg-6">
 					<div class="center-text">
-						<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
+						<p>Ask, and it shall be given you. (Matthew 7:7-11)</p>
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="faq" id="accordion">
-						<div class="cCZN">
+						<div class="card">
 							<div class="card-header" id="faqHeading-1">
 								<div class="mb-0">
 									<h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-1" data-aria-expanded="true" data-aria-controls="faqCollapse-1">
@@ -559,8 +664,34 @@ $this->title = 'Catsowner - CZN Token';
 							</div>
 							<div id="faqCollapse-1" class="collapse" aria-labelledby="faqHeading-1" data-parent="#accordion">
 								<div class="card-body">
-									<p>Donec tempus sodales dolor, at efficitur enim posuere auctor. Nam et nisi eu purus tempor faucibus aliquet vitae orci. Curabitur sollicitudin leo et magna pharetra efficitur. Nullam et scelerisque lectus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque faucibus sit amet odio eget scelerisque. Mauris dictum cursus ornare.</p>
-									<p>Ut vehicula blandit tellus. Sed sit amet bibendum leo, non sagittis neque. Nam fringilla fermentum tortor, ac gravida velit facilisis id. Donec congue ullamcorper velit, at malesuada arcu faucibus pretium. Donec rhoncus magna sit amet massa venenatis, ut convallis justo ultricies.</p>
+									<p class="h5">1. User Autonomy</p>
+									<p>
+										The primary draw of CZN for many users, and indeed one of the central tenets of cryptocurrencies more generally, is autonomy. Digital currencies allow users more autonomy over their own money than fiat currencies do, at least in theory. Users are able to control how they spend their money without dealing with an intermediary authority like a bank or government.
+									</p>
+									<p class="h5">2. Discretion</p>
+									<p>
+										CZN Token purchases are discreet. Unless a user voluntarily publishes his  transactions, his purchases are never associated with his personal identity, much like cash-only purchases, and cannot easily be traced back to him. In fact, the anonymous address that is generated for user purchases changes with each transaction. This is not to say that CZN transactions are truly anonymous or entirely untraceable, but they are much less readily linked to personal identity than some traditional forms of payment.
+									</p>
+									<p class="h5">3. Peer-to-Peer Focus</p>
+									<p>
+										The Cat's owner payment system is purely peer-to-peer, meaning that users are able to send and receive payments to or from anyone on the network around the world without requiring approval from any external source or authority.
+									</p>
+									<p class="h5">4. Elimination of Banking Fees</p>
+									<p>
+										While it is considered standard among cryptocurrency exchanges to charge so-called "maker" and "taker" fees, as well as occasional deposit and withdrawal fees, CZN users are not subject to the litany of traditional banking fees associated with fiat currencies. This means no account maintenance or minimum balance fees, no overdraft charges and no returned deposit fees, among many others.
+									</p>
+									<p class="h5">5. Very Low Transaction Fees for International Payments</p>
+									<p>
+										Standard wire transfers and foreign purchases typically involve fees and exchange costs. Since Cat's owner transactions have no intermediary institutions or government involvement, the costs of transacting are kept very low. This can be a major advantage for travelers. Additionally, any transfer in CZN tokens happens very quickly, more than other cryptocurrencies, eliminating the inconvenience of typical authorization requirements and wait periods.
+									</p>
+									<p class="h5">6. Mobile Payments</p>
+									<p>
+										Like with many online payment systems, CZN users can pay for their coins anywhere they have Internet access. This means that purchasers never have to travel to a bank or a store to buy a product. However, unlike online payments made with bank accounts or credit cards, personal information is not necessary to complete any transaction.
+									</p>
+									<p class="h5">7. Accessibility</p>
+									<p>
+										Because users are able to send and receive CZN tokens with only a smartphone or computer, CZN token is theoretically available to populations of users without access to traditional banking systems, credit cards and other methods of payment.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -574,8 +705,9 @@ $this->title = 'Catsowner - CZN Token';
 							</div>
 							<div id="faqCollapse-2" class="collapse" aria-labelledby="faqHeading-2" data-parent="#accordion">
 								<div class="card-body">
-									<p>Donec tempus sodales dolor, at efficitur enim posuere auctor. Nam et nisi eu purus tempor faucibus aliquet vitae orci. Curabitur sollicitudin leo et magna pharetra efficitur. Nullam et scelerisque lectus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque faucibus sit amet odio eget scelerisque. Mauris dictum cursus ornare.</p>
-									<p>Ut vehicula blandit tellus. Sed sit amet bibendum leo, non sagittis neque. Nam fringilla fermentum tortor, ac gravida velit facilisis id. Donec congue ullamcorper velit, at malesuada arcu faucibus pretium. Donec rhoncus magna sit amet massa venenatis, ut convallis justo ultricies.</p>
+									<p>
+										Digital money has been conceived of since very early in the age of the internet. Several digital cash companies were founded in the early 1990s, the earliest and best-known of these being DigiCash.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -589,8 +721,9 @@ $this->title = 'Catsowner - CZN Token';
 							</div>
 							<div id="faqCollapse-3" class="collapse" aria-labelledby="faqHeading-3" data-parent="#accordion">
 								<div class="card-body">
-									<p>Donec tempus sodales dolor, at efficitur enim posuere auctor. Nam et nisi eu purus tempor faucibus aliquet vitae orci. Curabitur sollicitudin leo et magna pharetra efficitur. Nullam et scelerisque lectus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque faucibus sit amet odio eget scelerisque. Mauris dictum cursus ornare.</p>
-									<p>Ut vehicula blandit tellus. Sed sit amet bibendum leo, non sagittis neque. Nam fringilla fermentum tortor, ac gravida velit facilisis id. Donec congue ullamcorper velit, at malesuada arcu faucibus pretium. Donec rhoncus magna sit amet massa venenatis, ut convallis justo ultricies.</p>
+									<p>
+										The coronavirus epidemic has accelerated cryptocurrency’s exit process from the marginal state, and has firmly pushed it front and center into many more people’s consciousness than ever before. Today, the global economy needs a payment instrument with which you can make payments quickly, inexpensively and without unnecessary intermediaries, such as Visa or Mastercard, and it needs such an instrument now more than ever before. Now, it seems inevitable, in the coming years, that state digital currencies will become widely available to ordinary citizens. However, few people understand what this will change, so let’s explore how it will evolve in the not-too distant future.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -604,8 +737,8 @@ $this->title = 'Catsowner - CZN Token';
 							</div>
 							<div id="faqCollapse-4" class="collapse" aria-labelledby="faqHeading-4" data-parent="#accordion">
 								<div class="card-body">
-									<p>Donec tempus sodales dolor, at efficitur enim posuere auctor. Nam et nisi eu purus tempor faucibus aliquet vitae orci. Curabitur sollicitudin leo et magna pharetra efficitur. Nullam et scelerisque lectus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque faucibus sit amet odio eget scelerisque. Mauris dictum cursus ornare.</p>
-									<p>Ut vehicula blandit tellus. Sed sit amet bibendum leo, non sagittis neque. Nam fringilla fermentum tortor, ac gravida velit facilisis id. Donec congue ullamcorper velit, at malesuada arcu faucibus pretium. Donec rhoncus magna sit amet massa venenatis, ut convallis justo ultricies.</p>
+									<p>According to its supporters, Cat's owner CZN token has two advantages over existing currencies. The first is that its supply is limited, making it impossible for a central authority to issue it in quantities that would devalue it. This means it is much less vulnerable to hyperinflation crises, such as those seen in Weimar Germany, Zimbabwe or Venezuela. But a limited supply can also be a weakness, as it makes it impossible to control deflation – a phenomenon that can also lead to very severe economic consequences.</p>
+									<p>The second claimed advantage of Cat's owner CZN token is that all transactions are permanent and immutable. When money is held in a bank account, that bank could theoretically expropriate the money from its user and claim that it never existed. With CZN token, this is impossible, because the database on which transactions are recorded cannot be edited by any central authority. Cat's owner is thus often described as ‘trustless’, because it does not require its holder to trust a financial institution not to expropriate it.</p>
 								</div>
 							</div>
 						</div>
@@ -619,8 +752,9 @@ $this->title = 'Catsowner - CZN Token';
 							</div>
 							<div id="faqCollapse-5" class="collapse" aria-labelledby="faqHeading-5" data-parent="#accordion">
 								<div class="card-body">
-									<p>Donec tempus sodales dolor, at efficitur enim posuere auctor. Nam et nisi eu purus tempor faucibus aliquet vitae orci. Curabitur sollicitudin leo et magna pharetra efficitur. Nullam et scelerisque lectus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque faucibus sit amet odio eget scelerisque. Mauris dictum cursus ornare.</p>
-									<p>Ut vehicula blandit tellus. Sed sit amet bibendum leo, non sagittis neque. Nam fringilla fermentum tortor, ac gravida velit facilisis id. Donec congue ullamcorper velit, at malesuada arcu faucibus pretium. Donec rhoncus magna sit amet massa venenatis, ut convallis justo ultricies.</p>
+									<p>
+										From an entrepreneurial point of view, we can learn a lot from our beloved pets. Be it their hunting strategy to carefully observe the environment and only pursue an opportunity if the success can be foreseen or their cuteness which is one of their unique selling points. There might be so many other things that cats may help us to realize. I want to add one more aspect and this is to live in a beloved environment. Cats are grateful for all the devotion we have towards them that they try to pay it back. Living in a beloved and secure environment can be key for entrepreneurs to succeed in their visions. Being financially secured and having a family at home that takes care of frustrating days or nights gives the ambition to be a successful entrepreneur. Coming back to my initial statement that I have not figured out to be a successful entrepreneur: I am still foreseeing to work on the above-mentioned characteristics to prepare myself for being a world-class entrepreneur and will hopefully get the chance one day.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -634,8 +768,56 @@ $this->title = 'Catsowner - CZN Token';
 							</div>
 							<div id="faqCollapse-6" class="collapse" aria-labelledby="faqHeading-6" data-parent="#accordion">
 								<div class="card-body">
-									<p>Donec tempus sodales dolor, at efficitur enim posuere auctor. Nam et nisi eu purus tempor faucibus aliquet vitae orci. Curabitur sollicitudin leo et magna pharetra efficitur. Nullam et scelerisque lectus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque faucibus sit amet odio eget scelerisque. Mauris dictum cursus ornare.</p>
-									<p>Ut vehicula blandit tellus. Sed sit amet bibendum leo, non sagittis neque. Nam fringilla fermentum tortor, ac gravida velit facilisis id. Donec congue ullamcorper velit, at malesuada arcu faucibus pretium. Donec rhoncus magna sit amet massa venenatis, ut convallis justo ultricies.</p>
+									<p>
+										Here are 10 great benefits that CZN crowdfunding platform offers an entrepreneur.
+									</p>
+									<p class="h5">1. It provides access to capital.</p>
+									<p>At an early stage, an entrepreneur may think that outside of their own network they can only raise capital from accredited investors, venture capitalists, and banks. This isn’t true.</p>
+									<p>
+										CZN Crowdfunding is a great alternative way to fund a venture, and it can be done without giving up equity or accumulating debt. Rewards-based crowdfunding platforms allow entrepreneurs to raise funds from the community in exchange for simply giving their tangible products or other relative gifts.
+									</p>
+									<p class="h5">2. It hedges risk.</p>
+									<p>Starting up a company is a very risky and challenging journey. Besides finding sufficient funding, there are always expenses that are impossible to forecast, challenges in market validation, and other people who want a piece of your venture in order to help get it off the ground.</p>
+									<p>
+										Launching a crowdfunding campaign hedges these risks and serves as a valuable learning experience. CZN Crowdfunding as it is today allows an entrepreneur to gain market validation and avoid giving up equity before going all out and taking a product concept to market.
+									</p>
+									<p class="h5">3. It serves as a marketing tool</p>
+									<p>An active crowdfunding campaign is a good way to introduce a venture’s overall mission and vision to the market, as it is a free and easy way to reach numerous channels. Many crowdfunding platforms incorporate social media mechanisms, making it painless to get referral traffic to your website and other social media pages.</p>
+									<p>
+										Typically, this allows ventures to receive thousands of organic visits from unique users and potential funders. These users are also important for viral marketing, as they have the ability to share and spread the word to their connections.
+									</p>
+									<p class="h5">4. It gives proof of concept.</p>
+									<p>Showing investors and convincing yourself that your venture has received sufficient market validation at an early stage is hard. However, CZN crowdfunding makes this possible.</p>
+									<p>
+										The first question that any angel or institutional investor will ask will often be along the lines of proof of concept, and a good way to gain some respect and credibility is be able to show them that your venture had a successful crowdfunding campaign.
+									</p>
+									<p>
+										This shows trust and integrity towards a venture right off the bat, and will allow verification throughout the journey that one is on the right track.
+									</p>
+									<p class="h5">5. It allows crowdsourcing of brainstorming.</p>
+									<p>One of the biggest challenges for small businesses and entrepreneurs is to be able to cover all the holes that a venture might have at an early stage. By having a crowdfunding campaign, the entrepreneur has the ability to engage the crowd and receive comments, feedback, and ideas.</p>
+									<p>
+										This feedback is extremely valuable, as it can help understand some aspects of their business that were previously un-thought of. It could also potentially inspire some other ideas!
+									</p>
+									<p class="h5">6. It introduces prospective loyal customers.</p>
+									<p>A crowdfunding campaign not only allows an entrepreneur to present a business and product, it gives them the ability to share the message and the purpose behind it.</p>
+									<p>
+										People who view the entrepreneur’s campaign and decide to contribute are ones that believe in the success of the company in the long run. In essence, these people are early adopters. Early adopters are very important to every business, as they will help spread the initial word without asking for anything in return. Such people care about the venture’s brand and message, and are likely to be loyal customers throughout the life of it.
+									</p>
+									<p class="h5">7. It’s easier than traditional applications.</p>
+									<p>Applying for a loan or pursuing other capital investments are two of the most painful processes that every entrepreneur has to go through, especially during the early stages of the company.</p>
+									<p>
+										Thankfully, the application process for crowdfunding is a walk in the park compared to these traditional methods. In order to get started on the crowdfunding path to funding and exposure, an entrepreneur only needs to contact the chosen crowdfunding platform that best suits their campaign theme and purpose, share their venture’s powerful message, make a video, and establish some attractive rewards.
+									</p>
+									<p class="h5">8. It’s free PR.</p>
+									<p>The momentum created by successful crowdfunding campaigns attracts potential investment from traditional channels and attention from media outlets.</p>
+									<p>
+										Success stories make for interesting reading, and reporters are always hungry for them. Crowdfunding is a unique and hot industry these days, and countless entrepreneurs who have been successful with it have seen larger success and exposure as a result.
+									</p>
+									<p class="h5">9. It provides the opportunity of pre-selling.</p>
+									<p>Launching a crowdfunding campaign gives an entrepreneur the ability to pre-sell a product or concept that they haven’t yet taken to market. This is a good way to gauge user reaction and analyze the market in order to decide whether to pursue or pivot on a given concept.</p>
+									<p class="h5">10. It is free!</p>
+									<p>On all or nothing crowdfunding platforms (meaning that you only get the funds raised if you reach 100% or more  of your funding goal) there are so many benefits, and no fee to participate. If an entrepreneur sets a goal and doesn’t reach it, there is no penalty. All the funds are returned to each contributor, the entrepreneur doesn't get anything and neither does the platform. On the other hand, if the fundraising project is successful, everyone wins and gets to be a part of a successful crowdfunding project. When successful, the average commission for the platforms is around 5% of total funds raised.</p>
 								</div>
 							</div>
 						</div>
@@ -649,8 +831,8 @@ $this->title = 'Catsowner - CZN Token';
 							</div>
 							<div id="faqCollapse-7" class="collapse" aria-labelledby="faqHeading-7" data-parent="#accordion">
 								<div class="card-body">
-									<p>Donec tempus sodales dolor, at efficitur enim posuere auctor. Nam et nisi eu purus tempor faucibus aliquet vitae orci. Curabitur sollicitudin leo et magna pharetra efficitur. Nullam et scelerisque lectus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque faucibus sit amet odio eget scelerisque. Mauris dictum cursus ornare.</p>
-									<p>Ut vehicula blandit tellus. Sed sit amet bibendum leo, non sagittis neque. Nam fringilla fermentum tortor, ac gravida velit facilisis id. Donec congue ullamcorper velit, at malesuada arcu faucibus pretium. Donec rhoncus magna sit amet massa venenatis, ut convallis justo ultricies.</p>
+									<p>We hopefully think it will be in the next future.</p>
+
 								</div>
 							</div>
 						</div>
@@ -669,17 +851,15 @@ $this->title = 'Catsowner - CZN Token';
 					<div class="col-lg-5 col-md-5 col-sm-12">
 						<div class="contact">
 							<h3 class="section-title">Get In Touch</h3>
-							<p>Fusce placerat pretium mauris, vel sollicitudin elit lacinia vitae. Quisque sit amet nisi erat.</p>
+							<p>Let us know if you have something interesting to say and share it with us.</p>
 							<ul class="list">
-								<li><i class="fa fa-envelope-o"></i><a href="mailto:support@catsowner.tk">support@catsowner.tk</a></li>
-								<li><i class="fa fa-phone"></i><span>+44 0123 4567</span></li>
+								<li><i class="fa fa-envelope-o"></i><a href="mailto:catsowner.official@gmail.com">catsowner.official@gmail.com</a></li>
+								<li><i class="fa fa-phone"></i><span>+39 081 1946 3570</span></li>
 								<li><i class="fa fa-paper-plane-o"></i><a href="https://t.me/joinchat/BGoqXe75kzJkNzE0">Join us on Telegram</a></li>
 							</ul>
 							<ul class="social">
-								<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
-								<li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-								<li><a href="#"><i class="fa fa-github-square"></i></a></li>
+								<li><a href="https://twitter.com/Catsowner1"><i class="fa fa-twitter-square"></i></a></li>
+								<li><a href="https://github.com/jambtc/catsowner"><i class="fa fa-github-square"></i></a></li>
 							</ul>
 						</div>
 					</div>
