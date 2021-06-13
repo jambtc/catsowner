@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://catsowner.tk" target="_blank">
-        <img src="../bundles/crypto-page/assets/images/logos/white-logo-dark.png" height="100px">
+        <img src="https://catsowner.tk/bundles/crypto-page/assets/images/logos/white-logo-dark.png" height="100px">
     </a>
     <h1 align="center">Cat's owner</h1>
     <h4 align="center">A Useless Blockchain POA Platform</h4>
@@ -43,7 +43,7 @@ In IBFT 2.0 networks, approved accounts, known as validators, validate transacti
 IBFT 2.0 requires four validators to be Byzantine fault tolerant. Byzantine fault tolerance is the ability for a blockchain network to function correctly and reach consensus despite nodes failing or propagating incorrect information to peers.
 
 To use IBFT 2.0, it requires an IBFT 2.0 genesis file. The genesis file defines properties specific to IBFT 2.0.
-
+<div style="page-break-after: always;"></div>
 
 ## Distribution of keys
 
@@ -74,7 +74,7 @@ Validators in CZN Network create blocks every 2 (two) seconds. A faster network 
 The CZN token is the native token or coin of the CZN Cat's owner Network. It is used on the CZN Network for transactional purposes, for transaction fees (gas), and as a reward mechanism for validators. Apps such as poawallet use CZN for purchases as well as transaction costs, while others for gas fees while providing users with their own tokens.
 
 The CZN token is a representation of the ERC20 token available to use on the Ethereum mainnet. It is an ERC20 token which has all of the same properties as the CZN token but is compatible with the mainnet.
-
+<div style="page-break-after: always;"></div>
 
 ## Distribution & Emissions
 
@@ -114,6 +114,9 @@ You can check the transaction detail by clicking at transaction hash link: <a hr
 The wallet is a Progressive Web App. It works with several crypto tokens and blockchains. With Poa Wallet, you are in control over your funds. Receive, send, store and exchange your cryptocurrency within the mobile interface.
 
 You can get the wallet at this link: <a href="https://wallet.catsowner.tk" target="_blank">Wallet</a>
+
+
+<div style="page-break-after: always;"></div>
 
 
 ## Benefits of a digital currency
@@ -219,6 +222,7 @@ On all or nothing crowdfunding platforms (meaning that you only get the funds ra
 
 
 
+<div style="page-break-after: always;"></div>
 
 ### References
 - https://github.com/jambtc/catsowner

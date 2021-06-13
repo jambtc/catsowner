@@ -856,30 +856,23 @@ $this->title = 'Catsowner - CZN Token';
 								<li><i class="fa fa-envelope-o"></i><a href="mailto:catsowner.official@gmail.com">catsowner.official@gmail.com</a></li>
 								<li><i class="fa fa-phone"></i><span>+39 081 1946 3570</span></li>
 								<li><i class="fa fa-paper-plane-o"></i><a href="https://t.me/joinchat/BGoqXe75kzJkNzE0">Join us on Telegram</a></li>
-							</ul>
-							<ul class="social">
-								<li><a href="https://twitter.com/Catsowner1"><i class="fa fa-twitter-square"></i></a></li>
-								<li><a href="https://github.com/jambtc/catsowner"><i class="fa fa-github-square"></i></a></li>
+								<li><i class="fa fa-twitter"></i><a href="https://twitter.com/Catsowner1">Follow us on Twitter</a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="offset-lg-1 offset-md-1 col-lg-6 col-md-6 col-sm-12">
-						<div class="contact-form">
-							<h3 class="section-title">Say Something</h3>
-							<div class="form-element">
-								<input type="text" placeholder="Name, surname">
-							</div>
-							<div class="form-element">
-								<input type="email" placeholder="E-Mail">
-							</div>
-							<div class="form-element">
-								<textarea placeholder="Message"></textarea>
-							</div>
-							<div class="form-element">
-								<button class="btn-secondary-box">Submit</button>
-							</div>
+						<div class="contact contact-form">
+							<h3 class="section-title">Dont Trust, Verify.</h3>
+							<p>Repositories</p>
+							<ul class="list">
+								<li><a href="https://github.com/jambtc/catsowner"><i class="fa fa-github"></i>Cat`s Owner site</a></li>
+								<li><a href="https://github.com/jambtc/poawallet"><i class="fa fa-google-wallet"></i>Wallet</a></li>
+								<li><a href="https://github.com/jambtc/BSC-Contracts"><i class="fa fa-newspaper-o"></i>BSC-Contracts</a></li>
+							</ul>
+
 						</div>
 					</div>
+
 				</div>
 			</div>
 		</div>
@@ -887,7 +880,7 @@ $this->title = 'Catsowner - CZN Token';
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-5">
-						<p class="copyright">2021 © Cat`s owner - CZN ERC20 POA BSC Token</p>
+						<p class="copyright">2021 © Cat`s owner - CZN ERC20 BEP20 Token</p>
 					</div>
 				</div>
 			</div>
