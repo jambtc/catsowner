@@ -30,7 +30,7 @@ $this->title = 'Catsowner - CZN Token';
 								</a>
 							</div>
 							<div class="token">
-								<h6 class="title">ICO SALE OPEN IN</h6>
+								<h6 class="title">ICO PRE-SALE OPEN IN</h6>
 								<!-- ***** Countdown Start ***** -->
 								<ul class="countdown">
 									<li>
@@ -139,13 +139,13 @@ $this->title = 'Catsowner - CZN Token';
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="center-heading colored">
-						<h2 class="section-title">Token Sale and Airdrop</h2>
+						<h2 class="section-title">Token Pre-Sale, Sale and Airdrop</h2>
 					</div>
 				</div>
 				<div class="offset-lg-3 col-lg-6">
 					<div class="center-text colored">
 						<p>
-							When you login to our Airdrop Dasboard, make sure to connect your social accounts in your profile. Which will make it easier to join our Exclusive airdrops. Check your wallet address regularly to see if you received surprise airdrops. Our platform will deliver free airdrops for ours native coin holders without any prior announcement. If​ ​you​ ​are​ ​an​ ​investor​ ​holding​ ​a​ ​diverse​ ​portfolio​ ​of​ ​coins​ ​you​ ​are​ ​likely​ ​to​​ be receiving​ ​more​ ​and​ ​more free​ crypto as​ ​this​ ​concept​ ​keeps​ ​gaining​ ​popularity.
+							When you login to our Wallet Dasboard, make sure to connect your social accounts in your profile. Which will make it easier to join our Exclusive airdrops. Check your wallet address regularly to see if you received surprise airdrops. Our platform will deliver free airdrops for ours native coin holders without any prior announcement. If​ ​you​ ​are​ ​an​ ​investor​ ​holding​ ​a​ ​diverse​ ​portfolio​ ​of​ ​coins​ ​you​ ​are​ ​likely​ ​to​​ be receiving​ ​more​ ​and​ ​more free​ crypto as​ ​this​ ​concept​ ​keeps​ ​gaining​ ​popularity.
 						</p>
 					</div>
 				</div>
@@ -159,20 +159,28 @@ $this->title = 'Catsowner - CZN Token';
 								<!-- ***** Token Progress Start ***** -->
 								<div class="token-progress">
 									<ul id="test">
-										<li class="progress-active" data-progress="28%"></li>
+										<li class="progress-active" data-progress="5%"></li>
 										<li class="item complate" data-position="0%">
 											<strong>0</strong>
 											<span>Start</span>
 										</li>
-										<li class="item complate" data-position="22%">
-											<strong>56 Q CZN</strong>
-											<span>1/3 Pre Sale</span>
+										<li class="item complate" data-position="20%">
+											<strong>33.6 Q CZN</strong>
+											<span>20% Founders</span>
 										</li>
-										<li class="item complate" data-position="52%">
-											<strong>56 Q CZN</strong>
-											<span>1/3 ICO</span>
+										<li class="item complate" data-position="40%">
+											<strong>16.8 Q CZN</strong>
+											<span>10% Pre Sale</span>
 										</li>
-										<li class="item" data-position="73%"></li>
+										<li class="item complate" data-position="60%">
+											<strong>16.8 Q CZN</strong>
+											<span>10% ICO</span>
+										</li>
+										<li class="item complate" data-position="80%">
+											<strong>134.4 Q CZN</strong>
+											<span>60% Sale</span>
+										</li>
+										<li class="item" data-position="100%"></li>
 									</ul>
 								</div>
 								<!-- ***** Token Progress End ***** -->
@@ -189,11 +197,11 @@ $this->title = 'Catsowner - CZN Token';
 									</div>
 									<div class="item">
 										<strong>Accepted Tokens</strong>
-										<span>BTC, ETH, BNB, ETC, NEM, EOS</span>
+										<span>BTC, ETH, BNB</span>
 									</div>
 									<div class="item">
 										<strong>Project Protocol</strong>
-										<span>ETH, BSC - ERC 20</span>
+										<span>ETH, BSC - ERC 20 BEP20</span>
 									</div>
 									<div class="item">
 										<strong>Circulation Supply</strong>
@@ -205,7 +213,7 @@ $this->title = 'Catsowner - CZN Token';
 									</div>
 									<div class="item">
 										<strong>Maximum Cap</strong>
-										<span>169 M USD</span>
+										<span>169 Q USD</span>
 									</div>
 								</div>
 								<!-- ***** Token Info Table End ***** -->
@@ -215,7 +223,7 @@ $this->title = 'Catsowner - CZN Token';
 							<!-- ***** Token Countdown and Payment Start ***** -->
 							<div class="col-lg-6 col-md-6 cols-m-12">
 								<div class="token">
-									<h6 class="title">ICO SALE OPEN IN</h6>
+									<h6 class="title">ICO PRE-SALE OPEN IN</h6>
 									<!-- ***** Countdown Start ***** -->
 									<ul class="countdown">
 										<li>
@@ -239,29 +247,65 @@ $this->title = 'Catsowner - CZN Token';
 										</li>
 									</ul>
 									<!-- ***** Countdown End ***** -->
-									<div class="token-payment">
+									<div class="token-payment bg-secondary">
 										<span>Select Payment Method</span>
 										<div class="radios">
-											<div class="form-radio">
+											<!-- <div class="form-radio">
 												<input type="radio" id="check1" name="payment" checked=""/>
 												<label for="check1">
 													<i class="fa fa-bitcoin"></i>
 												</label>
-											</div>
-											<div class="form-radio">
+											</div> -->
+											<!-- <div class="form-radio">
 												<input type="radio" id="check2" name="payment"/>
 												<label for="check2">
 													<i class="fa fa-paypal"></i>
 												</label>
+											</div> -->
+											<div class="formradio">
+												<!-- Trigger/Open The Popup Footer-->
+												<img id="myPopupBtnFooter" class="alignnone wp-image-379"
+													style="cursor: pointer;"
+													src="bundles/crypto-page/images/mockups/bitcoinwhite.png" alt=""
+													width="150" height="50" tabindex="-1">
+
+												<!-- The Popup Footer-->
+												<div id="myPopupFooter" class="popup" style="display: none;">
+													<!-- Popup Footer content -->
+													<div class="popup-content">
+														<span id="myPopupCloseFooter" class="popup-close">×</span>
+														<div align="center">
+															<form method="POST" action="https://npay-backend.online/api/v1/invoices">
+															    <input type="hidden" name="storeId" value="8bWRmV8pv7JKvVP5Vrm2tnrSKLzHbfRMUCB3A9doiJdU" />
+															    <div style="text-align:center;width:209px"><input type="text" id="btcpay-input-price" name="price" value="10" style="border: none; background-image: none; background-color: transparent; -webkit-box-shadow: none ; -moz-box-shadow: none ; -webkit-appearance: none ; width: 209px; text-align: center; font-size: 25px; margin: auto; border-radius: 5px; line-height: 35px; background: #fff;" oninput="event.preventDefault();isNaN(event.target.value) || event.target.value <= 0 ? document.querySelector('#btcpay-input-price').value = 10 : event.target.value" onchange="document.querySelector('#btcpay-input-range').value = document.querySelector('#btcpay-input-price').value" /><select onchange="document.querySelector('input[type = hidden][name = currency]').value = event.target.value" style="-webkit-appearance: none; border: 0; display: block; padding: 0 3em; margin: auto auto 5px auto; font-size: 11px; background: 0 0; cursor: pointer;"><option value="USD">USD</option><option value="GBP">GBP</option><option value="EUR">EUR</option><option value="BTC">BTC</option></select><input class="btcpay-input-range" id="btcpay-input-range" value="10" type="range" min="1" max="1000" step="10" style="width:209px ;margin-bottom:15px;" oninput="document.querySelector('#btcpay-input-price').value = document.querySelector('#btcpay-input-range').value" />
+															    <style type="text/css">input[type=range].btcpay-input-range{-webkit-appearance:none;width:100%;margin:9.45px 0}input[type=range].btcpay-input-range:focus{outline:0}input[type=range].btcpay-input-range::-webkit-slider-runnable-track{width:100%;height:3.1px;cursor:pointer;box-shadow:0 0 1.7px #020,0 0 0 #003c00;background:#f3f3f3;border-radius:1px;border:0 solid rgba(24,213,1,0)}input[type=range].btcpay-input-range::-webkit-slider-thumb{box-shadow:0 0 3.7px rgba(0,170,0,0),0 0 0 rgba(0,195,0,0);border:2.5px solid #cedc21;height:22px;width:23px;border-radius:12px;background:#0f3723;cursor:pointer;-webkit-appearance:none;margin-top:-9.45px}input[type=range].btcpay-input-range:focus::-webkit-slider-runnable-track{background:#fff}input[type=range].btcpay-input-range::-moz-range-track{width:100%;height:3.1px;cursor:pointer;box-shadow:0 0 1.7px #020,0 0 0 #003c00;background:#f3f3f3;border-radius:1px;border:0 solid rgba(24,213,1,0)}input[type=range].btcpay-input-range::-moz-range-thumb{box-shadow:0 0 3.7px rgba(0,170,0,0),0 0 0 rgba(0,195,0,0);border:2.5px solid #cedc21;height:22px;width:23px;border-radius:12px;background:#0f3723;cursor:pointer}input[type=range].btcpay-input-range::-ms-track{width:100%;height:3.1px;cursor:pointer;background:0 0;border-color:transparent;color:transparent}input[type=range].btcpay-input-range::-ms-fill-lower{background:#e6e6e6;border:0 solid rgba(24,213,1,0);border-radius:2px;box-shadow:0 0 1.7px #020,0 0 0 #003c00}input[type=range].btcpay-input-range::-ms-fill-upper{background:#f3f3f3;border:0 solid rgba(24,213,1,0);border-radius:2px;box-shadow:0 0 1.7px #020,0 0 0 #003c00}input[type=range].btcpay-input-range::-ms-thumb{box-shadow:0 0 3.7px rgba(0,170,0,0),0 0 0 rgba(0,195,0,0);border:2.5px solid #cedc21;height:22px;width:23px;border-radius:12px;background:#0f3723;cursor:pointer;height:3.1px}input[type=range].btcpay-input-range:focus::-ms-fill-lower{background:#f3f3f3}input[type=range].btcpay-input-range:focus::-ms-fill-upper{background:#fff}</style></div>
+															    <input type="hidden" name="currency" value="USD" />
+															    <input type="hidden" name="notifyEmail" value="catsowner.official@gmail.com" />
+															    <input type="image" src="https://npay-backend.online/img/paybutton/pay.png" name="submit" style="width:209px" alt="Pay with BtcPay, Self-Hosted Bitcoin Payment Processor">
+															</form>
+														</div>
+													</div>
+												</div>
 											</div>
-											<div class="form-radio">
+
+											<div class="mt-2 formradio">
+												<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+													<input type="hidden" name="cmd" value="_s-xclick">
+													<input type="hidden" name="hosted_button_id" value="QZHWMZXT74WHG">
+
+													<input type="image" src="bundles/crypto-page/images/mockups/paypalwhite.png"
+														width="150" border="0" name="submit" title="PayPal - Il modo più sicuro e semplice per donare online!" alt="Dona con PayPal">
+													<img alt="" border="0" src="https://www.paypal.com/it_IT/i/scr/pixel.gif" width="1" height="1">
+												</form>
+											</div>
+											<!-- <div class="form-radio">
 												<input type="radio" id="check3" name="payment"/>
 												<label for="check3">
 													<i class="fa fa-cc-visa"></i>
 												</label>
-											</div>
+											</div> -->
 										</div>
-										<button class="btn-primary-line disabled">PURCHASE TOKEN NOW</button>
+										<!-- <button class="btn-primary-line">PURCHASE TOKEN NOW</button> -->
 									</div>
 								</div>
 							</div>
@@ -610,6 +654,23 @@ $this->title = 'Catsowner - CZN Token';
 					</div>
 				</div>
 
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.8s">
+					<div class="team-round">
+						<div class="profile">
+							<div class="img">
+								<img src="bundles/crypto-page/images/team/11.png" alt="">
+								<ul class="social">
+									<li><a href="https://twitter.com/AntoDellaPorta"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="https://www.linkedin.com/in/antonio-della-porta-38a264b9/"><i class="fa fa-linkedin"></i></a></li>
+									<li><a href="https://github.com/antodp"><i class="fa fa-github"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<h3 class="team-name">Antonio Della Porta</h3>
+						<span>Blockchain Smart Contract Developer - Ethereum Specialist</span>
+					</div>
+				</div>
+
 
 			</div>
 		</div>
@@ -832,7 +893,6 @@ $this->title = 'Catsowner - CZN Token';
 							<div id="faqCollapse-7" class="collapse" aria-labelledby="faqHeading-7" data-parent="#accordion">
 								<div class="card-body">
 									<p>We hopefully think it will be in the next future.</p>
-
 								</div>
 							</div>
 						</div>
@@ -870,9 +930,17 @@ $this->title = 'Catsowner - CZN Token';
 								<li><a href="https://github.com/jambtc/BSC-Contracts"><i class="fa fa-newspaper-o"></i>BSC-Contracts</a></li>
 							</ul>
 
+							<div class="left-text">
+								<div class="row footer-bottom py-3">
+									<div class="col-lg-12">
+										<a class="app-download" href="https://napoliblockchain.it" target="_blank">
+											<img width="150" src="bundles/crypto-page/images/mockups/nb-logo-bianco.png" alt="">
+										</a>
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
-
 				</div>
 			</div>
 		</div>
