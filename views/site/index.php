@@ -339,7 +339,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">07 2021</h6>
+							<h6 class="date">09 2021</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status complate"></div>
@@ -354,7 +354,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">10 2021</h6>
+							<h6 class="date">12 2021</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status complate"></div>
@@ -369,7 +369,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">12 2021</h6>
+							<h6 class="date">03 2022</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status complate"></div>
@@ -384,7 +384,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">03 2022</h6>
+							<h6 class="date">07 2022</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status"></div>
@@ -399,7 +399,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">04 2022</h6>
+							<h6 class="date">12 2022</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status"></div>
@@ -414,7 +414,7 @@ $this->title = 'Catsowner - CZN Token';
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-3 col-md-3 col-sm-12">
-							<h6 class="date">05 2022</h6>
+							<h6 class="date">05 2023</h6>
 						</div>
 						<div class="col-lg-2 col-md-2 col-sm-12">
 							<div class="status"></div>
@@ -927,7 +927,8 @@ $this->title = 'Catsowner - CZN Token';
 							<ul class="list">
 								<li><a href="https://github.com/jambtc/catsowner"><i class="fa fa-github"></i>Cat`s Owner site</a></li>
 								<li><a href="https://github.com/jambtc/poawallet"><i class="fa fa-google-wallet"></i>Wallet</a></li>
-								<li><a href="https://github.com/jambtc/BSC-Contracts"><i class="fa fa-newspaper-o"></i>BSC-Contracts</a></li>
+								<li><a href="https://github.com/jambtc/BSC-Contracts"><i class="fa fa-github"></i>BSC-Contracts</a></li>
+								<li><a href="https://github.com/jambtc/smart-contracts"><i class="fa fa-github"></i>ERC20 & POA Contracts</a></li>
 							</ul>
 
 							<div class="left-text">
