@@ -559,7 +559,7 @@ $this->title = 'Catsowner - CZN Token';
 						<span>Community Management</span>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.8s">
+				<!-- <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.8s">
 					<div class="team-round">
 						<div class="profile">
 							<div class="img">
@@ -669,7 +669,7 @@ $this->title = 'Catsowner - CZN Token';
 						<h3 class="team-name">Antonio Della Porta</h3>
 						<span>Blockchain Smart Contract Developer - Ethereum Specialist</span>
 					</div>
-				</div>
+				</div> -->
 
 
 			</div>
