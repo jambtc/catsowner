@@ -53,7 +53,7 @@ $(document).ready(function(){
 
     // count down
     $('.countdown').downCount({
-        date: '10/01/2021 12:00:00',
+        date: '10/01/2024 12:00:00',
         offset: -5
     }, function () {
         //alert('WOOT WOOT, done!');
